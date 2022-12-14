@@ -1,0 +1,12 @@
+Final Overall Scores Report
+
+Name                 Mean Median  Max  Min
+------------------ ------ ------ ---- ----
+Rory Williams          86     88   92   78
+James Barnes           74     76   91   54
+Sarah Jane Smith       88     86   95   82
+Jack Sparrow           21     15   54    0
+
+Total number of participants: 4
+Highest average score: Sarah Jane Smith (88)
+Lowest average score: Jack Sparrow (21)
